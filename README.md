@@ -3,5 +3,4 @@ This Is RaGhaVenDra Kiran Test Project At First Time In Git     --- New Learner 
 Hello Raghavendra How are You...!
 hai grk
 how you have been doing
-howzzz your work...!
-hai hello Namasthe helooo 
+howzzz your work... 
