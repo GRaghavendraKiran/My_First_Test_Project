@@ -1,11 +1,11 @@
 {
 	"folders": [
-		{
-			"path": "F:\\project123"
+		{    "name":"RK",
+			"path": "F:\\myFirstGit\\My_First_Test_Project"
 		},
-		{
-			"name": "Grk",
-			"path": "F:\\project123"
+		{    "name":"GRK",
+			"path": "."
 		}
-	]
+	],
+	"settings": {}
 }
