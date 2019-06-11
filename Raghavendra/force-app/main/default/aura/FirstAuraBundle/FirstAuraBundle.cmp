@@ -1,4 +1,5 @@
 <aura:component implements='force:appHostable'>
     <div class='color'>
         <lightning:button label='Click ME' action='{!c.show}'/>
+        </div>
 </aura:component>	
