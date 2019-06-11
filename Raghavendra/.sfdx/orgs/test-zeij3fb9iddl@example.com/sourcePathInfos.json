@@ -1,0 +1,467 @@
+[
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560173827402,
+            "changeTime": 1560173827402,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560173827974,
+            "changeTime": 1560173827974,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560173827978,
+            "changeTime": 1560173827978,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560233304471,
+            "changeTime": 1560233304471,
+            "contentHash": "f82d568530fef2682615fefb458418990382d8dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560232188665,
+            "changeTime": 1560232188665,
+            "contentHash": "5dc76b9154560e56601117a0d46f9c55e6d16d37",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.auradoc",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1560232188665,
+            "changeTime": 1560232188665,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.cmp",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.cmp",
+            "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1560277772553,
+            "changeTime": 1560277772553,
+            "contentHash": "6ba58ec55fe400e0fd01dbf853de3554678c872c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.cmp-meta.xml",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1560232187351,
+            "changeTime": 1560232187351,
+            "contentHash": "49b7bd7e5996b7fb0c293cdbb50e2e056a44b999",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.css",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.css",
+            "isDirectory": false,
+            "size": 85,
+            "modifiedTime": 1560277876569,
+            "changeTime": 1560277876569,
+            "contentHash": "a0b82a702655872ae00d3727893afad27b5c9ff3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.design",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1560232188680,
+            "changeTime": 1560232188680,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.svg",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundle.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1560232188586,
+            "changeTime": 1560232188586,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundleController.js",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundleController.js",
+            "isDirectory": false,
+            "size": 108,
+            "modifiedTime": 1560277908593,
+            "changeTime": 1560277908593,
+            "contentHash": "fdc98cad83f899de6bf3817e263f840d239dc5f9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundleHelper.js",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundleHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1560232187651,
+            "changeTime": 1560232187651,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundleRenderer.js",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\FirstAuraBundle\\FirstAuraBundleRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1560232188274,
+            "changeTime": 1560232188274,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560233196773,
+            "changeTime": 1560233196773,
+            "contentHash": "4da103e34548b5cef9d099d5312207d6966e0d78",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.app",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.app",
+            "isDirectory": false,
+            "size": 41,
+            "modifiedTime": 1560233196753,
+            "changeTime": 1560233196753,
+            "contentHash": "2e2cf71551ebd68c8f3d1d1d16b65e1ac6261cf5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.app-meta.xml",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.app-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1560233196757,
+            "changeTime": 1560233196757,
+            "contentHash": "e9b33a5e085f9c7713f6527118692e9ca19b31b8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.auradoc",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1560233196773,
+            "changeTime": 1560233196773,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.css",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1560233196765,
+            "changeTime": 1560233196765,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.svg",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstapp.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1560233196769,
+            "changeTime": 1560233196769,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstappController.js",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstappController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1560233196761,
+            "changeTime": 1560233196761,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstappHelper.js",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstappHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1560233196761,
+            "changeTime": 1560233196761,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstappRenderer.js",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstapp\\myfirstappRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1560233196769,
+            "changeTime": 1560233196769,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstevent",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstevent",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560233304519,
+            "changeTime": 1560233304519,
+            "contentHash": "e69dfa25280c65082b708e1e65d2fd5f72e4021d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstevent\\myfirstevent.evt",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstevent\\myfirstevent.evt",
+            "isDirectory": false,
+            "size": 62,
+            "modifiedTime": 1560233304519,
+            "changeTime": 1560233304519,
+            "contentHash": "73dd2d6095dcb17e014251e571de76a521b53c49",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstevent\\myfirstevent.evt-meta.xml",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstevent\\myfirstevent.evt-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1560233304523,
+            "changeTime": 1560233304523,
+            "contentHash": "3b0017dde28bfdb31f282d3b8ac08ff277a94af7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstinterface",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstinterface",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560233279709,
+            "changeTime": 1560233279709,
+            "contentHash": "c51fefc9e6faca35909c4194136d2caf8904fc10",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstinterface\\myfirstinterface.intf",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstinterface\\myfirstinterface.intf",
+            "isDirectory": false,
+            "size": 166,
+            "modifiedTime": 1560233279709,
+            "changeTime": 1560233279709,
+            "contentHash": "59124529225df06858b10358671bdf7a1be03256",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstinterface\\myfirstinterface.intf-meta.xml",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\aura\\myfirstinterface\\myfirstinterface.intf-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1560233279709,
+            "changeTime": 1560233279709,
+            "contentHash": "fc81fb24a7f51933ef91a99e53b9938cb95ea3b7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560173827978,
+            "changeTime": 1560173827978,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra",
+        {
+            "sourcePath": "F:\\myFirstGit\\My_First_Test_Project\\Raghavendra",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1560281187154,
+            "changeTime": 1560281187154,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
