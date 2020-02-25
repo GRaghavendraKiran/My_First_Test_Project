@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Telangana</fullName>
+    <description>It is a MaBhoomi Telangana Land Register Application System</description>
+    <types>
+        <members>Mabhoomi_Telangana</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Adhaar_Link__c.District__c</members>
+        <members>Adhaar_Link__c.Mandal__c</members>
+        <members>Adhaar_Link__c.Passbook_Number__c</members>
+        <members>Adhaar_Link__c.Register_ID__c</members>
+        <members>Adhaar_Link__c.Village__c</members>
+        <members>Complaint__c.Address__c</members>
+        <members>Complaint__c.Adhaar_Number__c</members>
+        <members>Complaint__c.Complaint_ID__c</members>
+        <members>Complaint__c.Complaint_Reason__c</members>
+        <members>Complaint__c.Contact_No__c</members>
+        <members>Complaint__c.District__c</members>
+        <members>Complaint__c.Email__c</members>
+        <members>Complaint__c.Father_Name__c</members>
+        <members>Complaint__c.Mandal__c</members>
+        <members>Complaint__c.Request_For_Change__c</members>
+        <members>Complaint__c.Village__c</members>
+        <members>FeedBack__c.Address__c</members>
+        <members>FeedBack__c.Adhaar_Number__c</members>
+        <members>FeedBack__c.Assembly_Constituency__c</members>
+        <members>FeedBack__c.Contact_No__c</members>
+        <members>FeedBack__c.Districts__c</members>
+        <members>FeedBack__c.Email__c</members>
+        <members>FeedBack__c.FeedBack__c</members>
+        <members>Pahani__c.Adhaar_Number__c</members>
+        <members>Pahani__c.District__c</members>
+        <members>Pahani__c.Mandal__c</members>
+        <members>Pahani__c.Passbook_Number__c</members>
+        <members>Pahani__c.Register_ID__c</members>
+        <members>Pahani__c.Village__c</members>
+        <members>Register__c.Adhaar_Number__c</members>
+        <members>Register__c.Area_Of_Land_In_Acres__c</members>
+        <members>Register__c.Crop_Season__c</members>
+        <members>Register__c.Cultivation_Crops__c</members>
+        <members>Register__c.District__c</members>
+        <members>Register__c.Email__c</members>
+        <members>Register__c.Father_Name__c</members>
+        <members>Register__c.Land_Source__c</members>
+        <members>Register__c.Land_Tax__c</members>
+        <members>Register__c.Mandal__c</members>
+        <members>Register__c.Passbook_Number__c</members>
+        <members>Register__c.Phone_Number__c</members>
+        <members>Register__c.Rating__c</members>
+        <members>Register__c.Register_ID__c</members>
+        <members>Register__c.Status__c</members>
+        <members>Register__c.Survey_No__c</members>
+        <members>Register__c.VIllage__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>About_Us__c</members>
+        <members>Adhaar_Link__c</members>
+        <members>Complaint__c</members>
+        <members>Contact_Us__c</members>
+        <members>Downloads__c</members>
+        <members>FeedBack__c</members>
+        <members>Pahani__c</members>
+        <members>Photo_Gallery__c</members>
+        <members>Register__c</members>
+        <members>Statistics__c</members>
+        <members>Village_Map__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>About_Us__c</members>
+        <members>Adhaar_Link__c</members>
+        <members>Complaint__c</members>
+        <members>Contact_Us__c</members>
+        <members>Downloads__c</members>
+        <members>FeedBack__c</members>
+        <members>Pahani__c</members>
+        <members>Photo_Gallery__c</members>
+        <members>Register__c</members>
+        <members>Statistics__c</members>
+        <members>Village_Map__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>District</members>
+        <members>Mandal</members>
+        <members>Village</members>
+        <name>GlobalValueSet</name>
+    </types>
+    <types>
+        <members>About_Us__c-About Us Layout</members>
+        <members>Adhaar_Link__c-Adhaar Link Layout</members>
+        <members>Complaint__c-Complaint Layout</members>
+        <members>Contact_Us__c-Contact Us Layout</members>
+        <members>Downloads__c-Downloads Layout</members>
+        <members>FeedBack__c-FeedBack Layout</members>
+        <members>Pahani__c-Pahani Layout</members>
+        <members>Photo_Gallery__c-Photo Gallery Layout</members>
+        <members>Register__c-Employyee layout</members>
+        <members>Register__c-Register Layout</members>
+        <members>Statistics__c-Stastics Layout</members>
+        <members>Village_Map__c-Village Map Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>About_Us__c.All</members>
+        <members>Adhaar_Link__c.All</members>
+        <members>Complaint__c.All</members>
+        <members>Contact_Us__c.All</members>
+        <members>Downloads__c.All</members>
+        <members>FeedBack__c.All</members>
+        <members>Pahani__c.All</members>
+        <members>Photo_Gallery__c.All</members>
+        <members>Register__c.All</members>
+        <members>Statistics__c.All</members>
+        <members>Village_Map__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Register__c.Employee</members>
+        <members>Register__c.OtherUSer</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>Adhaar_Link__c.Adhaar_Link_Reg_Id_Format</members>
+        <members>Adhaar_Link__c.Passbook_Number_Format</members>
+        <members>Complaint__c.Addhar_Number_Format</members>
+        <members>Complaint__c.Contact_Number_Format</members>
+        <members>FeedBack__c.Addhar_Number_Format</members>
+        <members>FeedBack__c.Enter_Number_Only</members>
+        <members>FeedBack__c.Number_Length_10</members>
+        <members>Pahani__c.Addhar_Number_Format</members>
+        <members>Pahani__c.Pahani_Reg_Id_rule</members>
+        <members>Pahani__c.Passbook_Number_Format</members>
+        <members>Register__c.Adhar_Number</members>
+        <members>Register__c.Passbook_Number_Format</members>
+        <members>Register__c.Phone_Number_Format</members>
+        <members>Register__c.Suvey_Number_Format</members>
+        <name>ValidationRule</name>
+    </types>
+    <version>45.0</version>
+</Package>

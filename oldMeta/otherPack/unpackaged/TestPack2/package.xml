@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TestPack2</fullName>
+    <description>General test unmanaged app</description>
+    <types>
+        <members>Class__c</members>
+        <members>Enrolment__c</members>
+        <members>Hostel__c</members>
+        <members>Student__c</members>
+        <members>Teacher__c</members>
+        <members>Transport__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Class__c</members>
+        <members>Enrolment__c</members>
+        <members>Hostel__c</members>
+        <members>Student__c</members>
+        <members>Teacher__c</members>
+        <members>Transport__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>Class__c-Class Layout</members>
+        <members>Enrolment__c-Enrolement Layout</members>
+        <members>Hostel__c-Hostel Layout</members>
+        <members>Student__c-Student Layout</members>
+        <members>Teacher__c-Teacher Layout</members>
+        <members>Transport__c-Transport Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Class__c.All</members>
+        <members>Enrolment__c.All</members>
+        <members>Hostel__c.All</members>
+        <members>Student__c.All</members>
+        <members>Teacher__c.All</members>
+        <members>Transport__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>45.0</version>
+</Package>

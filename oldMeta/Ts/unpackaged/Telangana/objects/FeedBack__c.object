@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionOverrides>
+        <actionName>Accept</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>CancelEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Clone</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Delete</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Edit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>List</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>New</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>SaveEdit</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>Tab</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <actionOverrides>
+        <actionName>View</actionName>
+        <type>Default</type>
+    </actionOverrides>
+    <allowInChatterGroups>true</allowInChatterGroups>
+    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>it takes feedback from the candidates</description>
+    <enableActivities>true</enableActivities>
+    <enableBulkApi>true</enableBulkApi>
+    <enableFeeds>false</enableFeeds>
+    <enableHistory>true</enableHistory>
+    <enableLicensing>false</enableLicensing>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
+    <enableSharing>true</enableSharing>
+    <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Address__c</fullName>
+        <description>it takes address</description>
+        <externalId>false</externalId>
+        <inlineHelpText>enter the address</inlineHelpText>
+        <label>Address</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Adhaar_Number__c</fullName>
+        <externalId>false</externalId>
+        <label>Adhaar Number</label>
+        <length>12</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Assembly_Constituency__c</fullName>
+        <description>it takes assembly constituency</description>
+        <externalId>false</externalId>
+        <inlineHelpText>it is done by field dependencies</inlineHelpText>
+        <label>Assembly Constituency</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <controllingField>Districts__c</controllingField>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Nzb urban</fullName>
+                    <default>false</default>
+                    <label>Nzb urban</label>
+                </value>
+                <value>
+                    <fullName>Nzb rural</fullName>
+                    <default>false</default>
+                    <label>Nzb rural</label>
+                </value>
+                <value>
+                    <fullName>Km urban</fullName>
+                    <default>false</default>
+                    <label>Km urban</label>
+                </value>
+                <value>
+                    <fullName>Km rural</fullName>
+                    <default>false</default>
+                    <label>Km rural</label>
+                </value>
+                <value>
+                    <fullName>Hyd urban</fullName>
+                    <default>false</default>
+                    <label>Hyd urban</label>
+                </value>
+                <value>
+                    <fullName>Hyd rural</fullName>
+                    <default>false</default>
+                    <label>Hyd rural</label>
+                </value>
+                <value>
+                    <fullName>Rang urban</fullName>
+                    <default>false</default>
+                    <label>Rang urban</label>
+                </value>
+                <value>
+                    <fullName>Rang rural</fullName>
+                    <default>false</default>
+                    <label>Rang rural</label>
+                </value>
+                <value>
+                    <fullName>Adbd urban</fullName>
+                    <default>false</default>
+                    <label>Adbd urban</label>
+                </value>
+                <value>
+                    <fullName>Adbd rural</fullName>
+                    <default>false</default>
+                    <label>Adbd rural</label>
+                </value>
+                <value>
+                    <fullName>Wrngl urban</fullName>
+                    <default>false</default>
+                    <label>Wrngl urban</label>
+                </value>
+                <value>
+                    <fullName>Wrngl rural</fullName>
+                    <default>false</default>
+                    <label>Wrngl rural</label>
+                </value>
+                <value>
+                    <fullName>Mdk urban</fullName>
+                    <default>false</default>
+                    <label>Mdk urban</label>
+                </value>
+                <value>
+                    <fullName>Mdk rural</fullName>
+                    <default>false</default>
+                    <label>Mdk rural</label>
+                </value>
+                <value>
+                    <fullName>Nal urban</fullName>
+                    <default>false</default>
+                    <label>Nal urban</label>
+                </value>
+                <value>
+                    <fullName>Nal rural</fullName>
+                    <default>false</default>
+                    <label>Nal rural</label>
+                </value>
+                <value>
+                    <fullName>Kmnr urban</fullName>
+                    <default>false</default>
+                    <label>Kmnr urban</label>
+                </value>
+                <value>
+                    <fullName>Kmnr rural</fullName>
+                    <default>false</default>
+                    <label>Kmnr rural</label>
+                </value>
+                <value>
+                    <fullName>Mahab urban</fullName>
+                    <default>false</default>
+                    <label>Mahab urban</label>
+                </value>
+                <value>
+                    <fullName>Mahab rural</fullName>
+                    <default>false</default>
+                    <label>Mahab rural</label>
+                </value>
+            </valueSetDefinition>
+            <valueSettings>
+                <controllingFieldValue>10.Khammam</controllingFieldValue>
+                <valueName>Km urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>10.Khammam</controllingFieldValue>
+                <valueName>Km rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>1.Adilabad</controllingFieldValue>
+                <valueName>Adbd urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>1.Adilabad</controllingFieldValue>
+                <valueName>Adbd rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>2.Nizamabad</controllingFieldValue>
+                <valueName>Nzb urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>2.Nizamabad</controllingFieldValue>
+                <valueName>Nzb rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>3.Karimnagar</controllingFieldValue>
+                <valueName>Kmnr urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>3.Karimnagar</controllingFieldValue>
+                <valueName>Kmnr rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>4.Medak</controllingFieldValue>
+                <valueName>Mdk urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>4.Medak</controllingFieldValue>
+                <valueName>Mdk rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>5.Rangareddy</controllingFieldValue>
+                <valueName>Rang urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>5.Rangareddy</controllingFieldValue>
+                <valueName>Rang rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>6.Hyderabad</controllingFieldValue>
+                <valueName>Hyd urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>6.Hyderabad</controllingFieldValue>
+                <valueName>Hyd rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>7.Mahabubnagar</controllingFieldValue>
+                <valueName>Mahab urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>7.Mahabubnagar</controllingFieldValue>
+                <valueName>Mahab rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>8.Nalgonda</controllingFieldValue>
+                <valueName>Nal urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>8.Nalgonda</controllingFieldValue>
+                <valueName>Nal rural</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>9.Warangal</controllingFieldValue>
+                <valueName>Wrngl urban</valueName>
+            </valueSettings>
+            <valueSettings>
+                <controllingFieldValue>9.Warangal</controllingFieldValue>
+                <valueName>Wrngl rural</valueName>
+            </valueSettings>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Contact_No__c</fullName>
+        <description>it takes phone number</description>
+        <externalId>false</externalId>
+        <inlineHelpText>enter the phone number</inlineHelpText>
+        <label>Contact No</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Phone</type>
+    </fields>
+    <fields>
+        <fullName>Districts__c</fullName>
+        <externalId>false</externalId>
+        <label>Districts</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Picklist</type>
+        <valueSet>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>--Select District--</fullName>
+                    <default>true</default>
+                    <label>--Select District--</label>
+                </value>
+                <value>
+                    <fullName>1.Adilabad</fullName>
+                    <default>false</default>
+                    <label>1.Adilabad</label>
+                </value>
+                <value>
+                    <fullName>2.Nizamabad</fullName>
+                    <default>false</default>
+                    <label>2.Nizamabad</label>
+                </value>
+                <value>
+                    <fullName>3.Karimnagar</fullName>
+                    <default>false</default>
+                    <label>3.Karimnagar</label>
+                </value>
+                <value>
+                    <fullName>4.Medak</fullName>
+                    <default>false</default>
+                    <label>4.Medak</label>
+                </value>
+                <value>
+                    <fullName>5.Rangareddy</fullName>
+                    <default>false</default>
+                    <label>5.Rangareddy</label>
+                </value>
+                <value>
+                    <fullName>6.Hyderabad</fullName>
+                    <default>false</default>
+                    <label>6.Hyderabad</label>
+                </value>
+                <value>
+                    <fullName>7.Mahabubnagar</fullName>
+                    <default>false</default>
+                    <label>7.Mahabubnagar</label>
+                </value>
+                <value>
+                    <fullName>8.Nalgonda</fullName>
+                    <default>false</default>
+                    <label>8.Nalgonda</label>
+                </value>
+                <value>
+                    <fullName>9.Warangal</fullName>
+                    <default>false</default>
+                    <label>9.Warangal</label>
+                </value>
+                <value>
+                    <fullName>10.Khammam</fullName>
+                    <default>false</default>
+                    <label>10.Khammam</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
+        <fullName>Email__c</fullName>
+        <description>it takes email from the candidate</description>
+        <externalId>false</externalId>
+        <inlineHelpText>enter the email</inlineHelpText>
+        <label>Email</label>
+        <required>true</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>FeedBack__c</fullName>
+        <description>it takes the feedback from the candidate</description>
+        <externalId>false</externalId>
+        <inlineHelpText>enter the feedback</inlineHelpText>
+        <label>FeedBack</label>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <label>FeedBack</label>
+    <listViews>
+        <fullName>All</fullName>
+        <filterScope>Everything</filterScope>
+        <label>All</label>
+    </listViews>
+    <nameField>
+        <label>Name</label>
+        <trackHistory>false</trackHistory>
+        <type>Text</type>
+    </nameField>
+    <pluralLabel>FeedBack</pluralLabel>
+    <searchLayouts/>
+    <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Addhar_Number_Format</fullName>
+        <active>true</active>
+        <errorConditionFormula>or(not isnumber( Adhaar_Number__c),len( Adhaar_Number__c )&lt;12)</errorConditionFormula>
+        <errorDisplayField>Adhaar_Number__c</errorDisplayField>
+        <errorMessage>Enter the Adhaar interms of 12 digit number only</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Enter_Number_Only</fullName>
+        <active>true</active>
+        <errorConditionFormula>not isnumber( Contact_No__c )</errorConditionFormula>
+        <errorDisplayField>Contact_No__c</errorDisplayField>
+        <errorMessage>enter the number only</errorMessage>
+    </validationRules>
+    <validationRules>
+        <fullName>Number_Length_10</fullName>
+        <active>true</active>
+        <errorConditionFormula>OR(  LEN(Contact_No__c) &gt; 10 , LEN(Contact_No__c) &lt; 10 )</errorConditionFormula>
+        <errorDisplayField>Contact_No__c</errorDisplayField>
+        <errorMessage>enter phone number in ten digits only</errorMessage>
+    </validationRules>
+    <visibility>Public</visibility>
+</CustomObject>
